@@ -1,6 +1,6 @@
 # 水牌识别
 
-![image](https://github.com/foamliu/Hanging-Campany-Logo/raw/master/images/1.jpg)
+![image](https://github.com/foamliu/Hanging-Company-Logo/raw/master/images/1.jpg)
 
 <pre>
 厦公可
@@ -103,7 +103,7 @@ NGHAO JAHE INDUISTRIA. INVESTMENT FUND MANAGEMENT CO
 iHAY CHINA CO LLTD
 </pre>
 
-![image](https://github.com/foamliu/Hanging-Campany-Logo/raw/master/images/2.jpg)
+![image](https://github.com/foamliu/Hanging-Company-Logo/raw/master/images/2.jpg)
 
 <pre>
 朝肥睏广场
@@ -199,7 +199,7 @@ F成都追梦捷晟网络科技有限公司
 超仁企业策划管理(广州)有限公司
 </pre>
 
-![image](https://github.com/foamliu/Hanging-Campany-Logo/raw/master/images/3.jpg)
+![image](https://github.com/foamliu/Hanging-Company-Logo/raw/master/images/3.jpg)
 
 <pre>
 n金马大厦入驻企业B座
